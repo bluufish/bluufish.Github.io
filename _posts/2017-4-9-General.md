@@ -19,13 +19,13 @@ As my first project, I went through all the steps a data analyst would go throug
 </p>
 
 This involved 
->figuring out the problem we're trying to solve
->creating the objectives and goals
->gathering the data needed to solve it
->cleaning and organizing data 
->creating strategies for dealing with null values, duplicated values, irrelevant data
->analyzing it through pivot tables, cross tabulation and other tools
->Preparing a summary of it for presentation. 
+-figuring out the problem we're trying to solve
+-creating the objectives and goals
+-gathering the data needed to solve it
+-cleaning and organizing data 
+-creating strategies for dealing with null values, duplicated values, irrelevant data
+-analyzing it through pivot tables, cross tabulation and other tools
+-Preparing a summary of it for presentation. 
 
 The thing I find most interesting about Data Analysis is the fact that in situations, you figure out what problem you want to solve before you even have the data. Its similar to cooking in that you generally decide what you want to cook and then buy the ingredients you need. Of course you can cook with what you have on hand and its also the case that you can identify problems that need solving just from looking at data. 
 
