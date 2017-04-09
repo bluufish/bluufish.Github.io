@@ -12,7 +12,7 @@ AirBNB is an online marketplace which enables people to lease or rent out their 
 
 As my first project, I went through all the steps a data analyst would go through by following the analytical process.
 
-<div style="text-align:center;">
+<div style="text-align:center">
 <img src="http://i.imgur.com/9pyFeIT.png">
 </div>
 
