@@ -15,4 +15,4 @@ This page is a filler!
 
 ![More]({{ site.baseurl }}/Kumiko.png)
 
-![Okay](/Images/Analysis.png)
+![Okay](Analysis.png)
