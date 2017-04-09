@@ -3,12 +3,7 @@ layout: post
 title: AirBNB Amsterdam Analysis
 published: true
 ---
-<head>
-<style>
-</style>
-</head>
 
-<body>
 The first project I worked on at General Assembly was analyzing host data from AirBNB. 
 
 The data was gathered from publicly sourced AirBNB data available from http://insideairbnb.com/get-the-data.html
@@ -17,7 +12,7 @@ AirBNB is an online marketplace which enables people to lease or rent out their 
 
 As my first project, I went through all the steps a data analyst would go through by following the analytical process.
 
-<p style="text-align:center;">
+<p_style="text-align:center;">
 <img src="http://i.imgur.com/9pyFeIT.png">
 </p>
 
@@ -30,5 +25,3 @@ This involved figuring out the problem we're trying to solve, gathering the data
 ![Presentation]()
 
 [Download the files here](https://github.com/bluufish/AirBNB.git)
-
-</body>
