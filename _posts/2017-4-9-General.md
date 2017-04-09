@@ -37,5 +37,4 @@ Each student came up with their own recommendations on how to move forward in in
 
 This brings me to one of my favorite things about looking at data; depending on who looks at it, data will look different. It depends on the mindset of the viewer and their own personal experiences. So someone who has never used a hotel might have different strategies than someone who has used hotels all their life.
 
-The full excel sheet can be found here
-[Download the files here](https://github.com/bluufish/AirBNB.git)
+The full excel sheet can be found [here](https://github.com/bluufish/AirBNB.git)
