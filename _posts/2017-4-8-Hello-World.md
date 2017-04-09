@@ -15,4 +15,4 @@ This page is a filler!
 
 ![More]({{ site.baseurl }}/Kumiko.png)
 
-![Okay](images/Analysis.png)
+![Okay](https://github.com/bluufish/bluufish.github.io/blob/master/images/Kumiko.jpg)
