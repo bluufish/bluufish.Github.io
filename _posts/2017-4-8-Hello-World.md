@@ -13,6 +13,8 @@ This page is a filler!
 
 ![Stuff]({{ site.baseurl }}/images/Kumiko.png)
 
-![More]({{ site.baseurl }}/Kumiko.png)
+[Stuff] (master/images/Kumiko.jpg)
+
+![Stuff] (master/images/Kumiko.jpg)
 
 ![Okay](https://github.com/bluufish/bluufish.github.io/blob/master/images/Kumiko.jpg)
