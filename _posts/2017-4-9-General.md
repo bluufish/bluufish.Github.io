@@ -4,6 +4,8 @@ title: AirBNB Amsterdam Analysis
 published: true
 ---
 
+Introduction to Data Analysis and Microsoft Excel
+
 The first project I worked on at General Assembly was analyzing host data from AirBNB and it was my introduction to the complete process of Data Analysis. 
 
 The data was gathered from publicly sourced AirBNB data available from http://insideairbnb.com/get-the-data.html
