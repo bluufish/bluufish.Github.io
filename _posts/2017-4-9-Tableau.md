@@ -22,8 +22,12 @@ Of course before I could inject my data into Tableau, I ran to run through the u
 
 It was during my attempts at aggregating the data in SQL that I experienced my first greatest challenge that kept tripping me up all night. Scores for restaurants were recorded in their point form and not their letter form so I wanted to see the percent distribution of letters throughout the boroughs. You would think it would be as simple as just making a case statement for when the scores were above fourteen or above twenty eight but the restaurants were recorded with all their violations too. So a restaurant might have a fifteen score but be recorded five or six times for one inspection. This skewed the averages considerably and threw me off at how I would condense these violations to single inspections. Surprisingly, it wasnt because of my inability to aggregate what I was looking for, but the fact that I my approach was wrong but I was too deep to abandon what I had done. It was only when I decided to start from scratch did I realize that I could just consolidate the inspections by simply using the inspection dates. The lesson I learned here was that sometimes overworking isnt working at all and sometimes you just need to take a breather. 
 
+After inserting the data into Tableau, I get this wonderful geomap that plots out health scores by Zipcode. The are multiple toggeable settings for it such as year and critera in the Tableau file but you'll have to live with a screenshot of the pdf.
+
 <p align="center">
 <img src="http://i.imgur.com/OxG5VQg.png">
 </p>
+
+To be continued!
 
 For the pdf of my full presentation, click [here](https://github.com/bluufish/Restaurant-Nightmare/blob/master/Final%20Project%203%20Simon%20Chan%20Data%20Analysis.pdf)
