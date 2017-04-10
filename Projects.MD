@@ -4,8 +4,8 @@ title: Projects
 permalink: /Projects/
 ---
 
-[AirBNB Amsterdam Analysis] (https://github.com/bluufish/AirBNB)
+[AirBNB Amsterdam Analysis](https://github.com/bluufish/AirBNB)
 
-[Mozilla Test Pilot Analysis] (https://github.com/bluufish/Firefox-)
+[Mozilla Test Fire Anaylsis](https://github.com/bluufish/Firefox-)
 
 [New York Sanitation Inspection of Chinese Restaurants](https://github.com/bluufish/Restaurant-Nightmare)
